@@ -95,5 +95,4 @@ const server = http.createServer((req,res) => {
 
 });
 
-//paleidziame serveri
 server.listen(2995, "localhost");
